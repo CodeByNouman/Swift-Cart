@@ -1,0 +1,5 @@
+wwwroot\assets\app.js
+wwwroot\assets\style.css
+wwwroot\index.html
+wwwroot\signin.html
+wwwroot\signup.html
